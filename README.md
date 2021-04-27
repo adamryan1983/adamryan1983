@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adamryan1983/adamryan1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 I am a Software Development student with a passion for web development and mobile app development
 
@@ -15,5 +11,4 @@ I am a Software Development student with a passion for web development and mobil
 - 📫 How to reach me: adam@adamryanphotography.ca || https://thisisadamryan.me
 - ⚡ Fun fact: I am a musician, a photographer, and an avid runner as well
 
--->
 
